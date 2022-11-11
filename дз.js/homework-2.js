@@ -1,4 +1,4 @@
-// // 1 завдання
+// 1 завдання
  
  
 // const k1 = Number.parseInt('5px');
@@ -14,7 +14,7 @@
 // console.log(k4);
  
  
-// // 2 завдання
+// 2 завдання
  
  
 // const k5 = Number.parseFloat('5px');
@@ -30,20 +30,20 @@
 // console.log(k8);
  
  
-// // 3 завдання
+// 3 завдання
  
  
 // console.log(Math.max(2,34,99,3,22,36,733,18));
 // console.log(Math.min(2,34,99,3,22,36,733,18));
  
  
-// // 4 завдання
+// 4 завдання
  
  
 // console.log(Math.random() * (19 - 3) + 3);
  
  
-// // 5 завдання
+// 5 завдання
  
  
 // const result = 5 + 5 + '5';
@@ -51,7 +51,7 @@
 // console.log(typeof result);
  
  
-// // 6 завдання
+// 6 завдання
  
  
 // const email = 'yakovlevalera2507@gmail.com' ;
@@ -59,7 +59,7 @@
 // console.log(email.length);
  
  
-// // 7 завдання
+// 7 завдання
  
  
 // const my = 'My';
@@ -69,7 +69,7 @@
 // console.log(fullName);
  
  
-// // 8 завдання
+// 8 завдання
  
  
 // const userName = 'Валеріє';
