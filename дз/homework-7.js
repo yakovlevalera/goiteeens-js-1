@@ -1,4 +1,4 @@
-// // 1 завдання
+// 1 завдання
 
 
 // const hello1 = function() {
@@ -6,7 +6,7 @@
 // }
 
 
-// // 2 завдання
+// 2 завдання
 
 
 // const hello2 = function(name) {
@@ -15,7 +15,7 @@
 // console.log(hello2('Василь'));
 
 
-// // 3 завдання
+// 3 завдання
 
 
 // const mull = function (n, m) {
@@ -26,7 +26,7 @@
 // mull(10, 2);
 
 
-// // 4 завдання
+// 4 завдання
 
 
 // const myNewArrowFunction = function (...args) {
@@ -38,7 +38,7 @@
 // myNewArrowFunction("Js", "Python", "Java", "PHP", "C++");
 
 
-// // 5 завдання
+// 5 завдання
 
 
 // const myAverageScore = function (array) {
